@@ -5,4 +5,4 @@ CREATE TABLE department(
   DepartmentName varchar(20),
   HOD varchar(20)
 );
-  desc Department;
+desc Department;
